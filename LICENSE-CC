@@ -1,0 +1,14 @@
+Documentacion de "Diamond Adventure en castellano"
+Copyright (c) 2026 araubi
+
+Se publica bajo la licencia Creative Commons Atribucion-NoComercial-CompartirIgual 4.0
+Internacional (CC BY-NC-SA 4.0): https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es
+Texto legal completo: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es
+
+Cubre:
+- la documentacion (carpeta docs/ y README).
+
+No cubre:
+- el juego original Diamond Adventure (codigo, textos, graficos, sonido y diseno), de
+  Micro Cabin, que sigue siendo de sus titulares;
+- el parche de releases/, que contiene partes del programa original modificado.
