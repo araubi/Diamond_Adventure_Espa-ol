@@ -4,6 +4,17 @@ Traducción completa al castellano de **Diamond Adventure** (Micro Cabin, 1983),
 
 El repositorio **no incluye el juego**: solo el parche IPS que convierte la cinta japonesa original en la versión en castellano, con instrucciones para aplicarlo.
 
+## Capturas
+
+Versión traducida (v1.0) en openMSX, con un Sony HB-20P (MSX europeo).
+
+| | |
+|---|---|
+| ![Pantalla de título](capturas/01_titulo.png) | ![Introducción en castellano](capturas/02_introduccion.png) |
+| Pantalla de título | Introducción |
+| ![Piso 3: BUSCAR BUZON](capturas/03_piso3.png) | ![Habitación A: BUSCAR MESA](capturas/04_habitacion.png) |
+| Piso 3: `BUSCAR` `BUZON` | Habitación A: `BUSCAR` `MESA` |
+
 ## Qué necesitas
 
 La cinta original en formato CAS, exactamente esta:
